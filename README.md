@@ -1,2 +1,2 @@
-# Organizacion-de-computadoras
+# Organizacion de computadoras
 OC
